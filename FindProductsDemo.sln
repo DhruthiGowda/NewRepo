@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindProductsDemo", "FindProductsDemo.csproj", "{58362C83-3D86-47E8-A609-272F23C333E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BAL", "..\..\ADO.net\BAL\BAL.csproj", "{CEDC27A5-B4E9-44F8-B0FC-78C5D844ED45}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "..\..\ADO.net\DAL\DAL.csproj", "{11EAA769-D984-4300-BBF3-F8C9BD421FC8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58362C83-3D86-47E8-A609-272F23C333E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58362C83-3D86-47E8-A609-272F23C333E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58362C83-3D86-47E8-A609-272F23C333E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58362C83-3D86-47E8-A609-272F23C333E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEDC27A5-B4E9-44F8-B0FC-78C5D844ED45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEDC27A5-B4E9-44F8-B0FC-78C5D844ED45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEDC27A5-B4E9-44F8-B0FC-78C5D844ED45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEDC27A5-B4E9-44F8-B0FC-78C5D844ED45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11EAA769-D984-4300-BBF3-F8C9BD421FC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11EAA769-D984-4300-BBF3-F8C9BD421FC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11EAA769-D984-4300-BBF3-F8C9BD421FC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11EAA769-D984-4300-BBF3-F8C9BD421FC8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B1234768-A31B-49AD-BF16-E161D9346C69}
+	EndGlobalSection
+EndGlobal
